@@ -21,3 +21,5 @@
 [webpack配置(待补充)](https://github.com/xiaoxiaoaobama/_blog/issues/4)
 
 [使用webpack的两种模式](https://github.com/xiaoxiaoaobama/_blog/issues/5)
+
+[es6和commonjs模块规范详解](https://github.com/xiaoxiaoaobama/_blog/issues/6)
